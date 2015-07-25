@@ -1,3 +1,4 @@
 this is the first file i will add to git.
 git is a free software.
 but on windows it's hard to use.
+egit is good.
